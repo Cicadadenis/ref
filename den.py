@@ -45,7 +45,7 @@ cicada_kb.add(
     InlineKeyboardButton('➖ Удалить Ботов', callback_data='delll')
 )
 
-token= '5714447911:AAEwYnkqlzsAMpcnn8sOLQwT8MQG4iDvZ0A'
+token= ''
 re = "\033[1;31m"
 gr = "\033[1;32m"
 cy="\033[1;36m"
